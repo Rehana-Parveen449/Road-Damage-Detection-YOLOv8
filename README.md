@@ -135,7 +135,7 @@ The application enables users to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/Road-Damage-Detection-YOLOv8.git
+git clone https://github.com/Rehana-Parveen449/Road-Damage-Detection-YOLOv8.git
 ```
 
 Install dependencies:
@@ -168,4 +168,4 @@ streamlit run app/app.py
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
-GitHub: https://github.com/<your-github-username>
+GitHub: https://github.com/Rehana-Parveen449
