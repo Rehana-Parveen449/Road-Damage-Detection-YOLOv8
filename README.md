@@ -123,7 +123,6 @@ The application enables users to:
 - OpenCV
 - Streamlit
 - NumPy
-- Pillow
 - PyTorch
 - Google Colab
 - Roboflow
