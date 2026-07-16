@@ -163,7 +163,7 @@ streamlit run app/app.py
 
 ## 👩‍💻 Author
 
-**Rehana Praveen**
+**Rehana Parveen Shaik**
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
